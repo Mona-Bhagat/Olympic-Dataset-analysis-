@@ -2,7 +2,8 @@
 This data analysis project aims to provide comprehensive overview of the Olympic events, including the countries that have participated, the number of medals won, and the different sports that are played. 
 The valuable insights through visualizations will help us better understand the Olympics and its history. 
 
-![Capture olympic](https://github.com/Mona-Bhagat/Olympic-Dataset-analysis-/assets/148805047/6ca4fec8-7ad6-4751-afd4-c0fb06da1343)
+
+![Capture olympic dashboard](https://github.com/Mona-Bhagat/Olympic-Dataset-analysis-/assets/148805047/7487703e-be40-484c-80c5-444ccdecf968)
 
 
 
